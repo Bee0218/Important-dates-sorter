@@ -1,0 +1,96 @@
+List the important dates as follows: Month/Day/Year(i.e. 01/01/2003) and Task. Press enter after one date. Type "done" when done.
+
+Date + Task: 02/18/2004 My birthday
+['02/18/2004 My birthday']
+
+Date + Task: 10/04/2000 My brother's birthday
+['02/18/2004 My birthday', "10/04/2000 My brother's birthday"]
+
+Date + Task: 03/24/2002 My friend's birthday
+['02/18/2004 My birthday', "10/04/2000 My brother's birthday", "03/24/2002 My friend's birthday"]
+
+Date + Task: done
+['02/18/2004 My birthday', "10/04/2000 My brother's birthday", "03/24/2002 My friend's birthday", 'done']
+
+    [List of Important Dates]
+1. 10/04/2000 My brother's birthday
+2. 03/24/2002 My friend's birthday
+3. 02/18/2004 My birthday
+
+Would you like to edit the list above?
+(Yes/No): yes
+
+What would you like to do?
+(add more to list/edit a date/see in reverse order): add more to list
+
+Date + Task: 02/23/2003 Special day 
+["10/04/2000 My brother's birthday", "03/24/2002 My friend's birthday", '02/18/2004 My birthday', '02/23/2003 Special day']
+
+Date + Task: 01/01/2003 John's Birthday
+["10/04/2000 My brother's birthday", "03/24/2002 My friend's birthday", '02/18/2004 My birthday', '02/23/2003 Special day', "01/01/2003 John's Birthday"]
+
+Date + Task: done
+["10/04/2000 My brother's birthday", "03/24/2002 My friend's birthday", '02/18/2004 My birthday', '02/23/2003 Special day', "01/01/2003 John's Birthday", 'done']
+
+    [List of Important Dates]
+1. 10/04/2000 My brother's birthday
+2. 03/24/2002 My friend's birthday
+3. 01/01/2003 John's Birthday
+4. 02/23/2003 Special day
+5. 02/18/2004 My birthday
+Would you like to edit the list above?
+(Yes/No): yes
+
+What would you like to do?
+(add more to list/edit a date/see in reverse order): edit a date
+
+which date in the list would you like to change?
+(i.e. 2): 5
+If you'd like to remove this just type "done".
+
+Date + Task: 02/18/2003 My Birthday
+
+    [List of Important Dates]
+1. 10/04/2000 My brother's birthday
+2. 03/24/2002 My friend's birthday
+3. 01/01/2003 John's Birthday
+4. 02/18/2003 My Birthday
+5. 02/23/2003 Special day
+Would you like to edit the list above?
+(Yes/No): yes
+
+What would you like to do?
+(add more to list/edit a date/see in reverse order): edit a date
+
+which date in the list would you like to change?
+(i.e. 2): 5
+If you'd like to remove this just type "done".
+
+Date + Task: done
+
+    [List of Important Dates]
+1. 10/04/2000 My brother's birthday
+2. 03/24/2002 My friend's birthday
+3. 01/01/2003 John's Birthday
+4. 02/18/2003 My Birthday
+Would you like to edit the list above?
+(Yes/No): yes
+
+What would you like to do?
+(add more to list/edit a date/see in reverse order): see in reverse order
+
+    [List of Important Dates in Reverse Order]
+1. 02/18/2003 My Birthday
+2. 01/01/2003 John's Birthday
+3. 03/24/2002 My friend's birthday
+4. 10/04/2000 My brother's birthday
+Would you like to edit the list above?
+(Yes/No): yes
+
+What would you like to do?
+(add more to list/edit a date/see in reverse order): blah blah blah
+
+-That's not one of the options-
+
+Would you like to edit the list above?
+(Yes/No): no
